@@ -15,6 +15,16 @@ La base de données contient les colonnes suivantes :
 **DiabetesPedigreeFunction** : fonction pedigree du diabète   \n
 **Age** : âge (années)   \n
 **Outcome** : variable cible indiquant si le patient est diabétique (0 = non diabétique, 1 = diabétique)   \n
+Pregnancies : nombre de grossesses  
+Glucose : concentration de glucose dans le plasma sanguin à jeun  
+BloodPressure : pression artérielle diastolique (mm Hg)  
+SkinThickness : épaisseur du pli cutané tricipital (mm)  
+Insulin : taux d'insuline sérique de 2 heures (mu U/ml)  
+BMI : indice de masse corporelle (kg/m²)  
+DiabetesPedigreeFunction : fonction pedigree du diabète  
+Age : âge (années)  
+Outcome : variable cible indiquant si le patient est diabétique (0 = non diabétique, 1 = diabétique)  
+
 
 ## Objectif de l'analyse
 L'objectif de cette analyse est de construire un modèle de classification pour prédire si une patiente a un diabète de type 2 en fonction de ses caractéristiques cliniques. 
