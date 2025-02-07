@@ -1,4 +1,4 @@
-# Project9
+# Project1
 ## Base de données Diabetes
 La base de données sur le diabète est disponible sur Kaggle:https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. Cette base de données contient des informations sur les patientes amérindiennes Pima âgées d'au moins 21 ans qui ont subi un dépistage du diabète de type 2. Les caractéristiques comprennent des mesures telles que la taille, le poids, l'âge, le nombre de grossesses et la tension artérielle. , etc.
 
